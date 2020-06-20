@@ -1,11 +1,12 @@
-#Rock_paper_scissors_with_pc
 
-Description:
+# Rock_paper_scissors_with_pc
+
+## Description:
 
 This is a game played between human and pc.I have named the pc name as anu,it can be changed as you want by modifying name in game.py file.This model is trained using transfer learning of inceptionv3 model.Dataset need to be generated using openCV.When the game begins you need to enter the maximum score of the game ,when either of the players reaches this score then the game terminates and displays the result as a picture. 
 
-Requirements:
-
+## Requirements:
+```
 Python 3
 
 Keras
@@ -13,8 +14,8 @@ Keras
 Tensorflow
 
 OpenCV
-
-Set up instructions:
+```
+## Set up instructions:
 
 download the files from my repo
 
