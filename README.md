@@ -21,7 +21,7 @@ Gather Images for each gesture (rock, paper and scissors and None): In this exam
 $ python3 get_training_images.py rock 500
 ```
 ```
-Train and validate the model
+Train and validate the model(mofify the paths of directories in the code accordingly)
 $ python3 rps_train.py
 ```
 ```
